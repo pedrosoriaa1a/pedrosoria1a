@@ -31,7 +31,12 @@ El objetivo principal de este proyecto es ayudar a las autoridades locales a pri
                 <p>Este proyecto se enfoca en desarrollar un modelo de aprendizaje automático capaz de estimar la grasa corporal de individuos sin recurrir a métodos incómodos o costosos, como la medición precisa con instrumentos especializados. Reconociendo la importancia de disponer de métodos accesibles y menos invasivos para evaluar la composición corporal, este proyecto busca proporcionar una solución que utilice datos fácilmente disponibles y técnicas de aprendizaje automático para realizar predicciones precisas de la grasa corporal..</p>
                 <a href="https://github.com/pedrosoriaa1a/Predicci-n_grasa/blob/main/Predicci%C3%B3n_de_grasa_corporal.ipynb">Ver proyecto</a>
             </div>
-            <!-- Agrega más proyectos según sea necesario -->
+            <div class="project">
+                <h3>Retención de talentos</h3>
+                <p>
+En el dinámico mundo corporativo, la retención de empleados es un desafío crucial que impacta directamente en la eficiencia y los resultados financieros de una empresa. Con el aumento de la competencia por el talento y los altos costos asociados a la contratación y capacitación, el uso estratégico de la ciencia de datos se ha convertido en una herramienta indispensable. En este contexto, Catapulta DataTech se ha adjudicado un proyecto que busca reducir la rotación de empleados aplicando modelos analíticos avanzados y de machine learning, para prever y comprender las dinámicas de retención de empleados. El equipo de recursos humanos de nuestro cliente, recopiló una gran cantidad de datos sobre sus empleados y desea desarrollar un modelo que pueda predecir qué empleados tienen más probabilidades de renunciar..</p>
+                <a href="https://github.com/pedrosoriaa1a/retencion_empleados/blob/main/Retencion_talentos.ipynb">Ver proyecto</a>
+            </div>
         </section>
     </main>
     <footer>
