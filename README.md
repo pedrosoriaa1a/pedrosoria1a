@@ -29,7 +29,7 @@ El objetivo principal de este proyecto es ayudar a las autoridades locales a pri
             <div class="project">
                 <h3>Estimación y Clasificación de Grasa Corporal sin Métodos Incómodos/Costosos</h3>
                 <p>Este proyecto se enfoca en desarrollar un modelo de aprendizaje automático capaz de estimar la grasa corporal de individuos sin recurrir a métodos incómodos o costosos, como la medición precisa con instrumentos especializados. Reconociendo la importancia de disponer de métodos accesibles y menos invasivos para evaluar la composición corporal, este proyecto busca proporcionar una solución que utilice datos fácilmente disponibles y técnicas de aprendizaje automático para realizar predicciones precisas de la grasa corporal..</p>
-                <a href="[https://github.com/pedrosoriaa1a/pago_multas/blob/main/Pago_de_multas.ipynb](https://github.com/pedrosoriaa1a/Predicci-n_grasa/blob/main/Predicci%C3%B3n_de_grasa_corporal.ipynb)">Ver proyecto</a>
+                <a href="https://github.com/pedrosoriaa1a/Predicci-n_grasa/blob/main/Predicci%C3%B3n_de_grasa_corporal.ipynb">Ver proyecto</a>
             </div>
             <!-- Agrega más proyectos según sea necesario -->
         </section>
