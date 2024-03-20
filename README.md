@@ -20,25 +20,25 @@
         <section>
             <h2>Proyectos destacados</h2>
             <div class="project">
-                <h3>Pago de multas en casas de EEUU</h3>
+                <h3>Pago de multas en casas de EEUU &#128181 &#128181</h3>
                 <p>Este proyecto se centra en el desarrollo de un modelo de aprendizaje automático para predecir si los propietarios de viviendas en Estados Unidos han pagado las multas asociadas con violaciones de códigos de mantenimiento de casas. Las ciudades y municipios en Estados Unidos imponen multas a los propietarios de viviendas que no cumplen con los estándares de mantenimiento, que pueden incluir problemas como el césped no cortado, basura acumulada, estructuras en mal estado, entre otros.
 
 El objetivo principal de este proyecto es ayudar a las autoridades locales a priorizar sus recursos de aplicación de la ley identificando qué propietarios son más propensos a cumplir con las multas impuestas. Para lograr esto, se utilizarán datos históricos de multas y violaciones, así como información demográfica y socioeconómica de los propietarios de viviendas..</p>
                 <a href="https://github.com/pedrosoriaa1a/pago_multas/blob/main/Pago_de_multas.ipynb">Ver proyecto</a>
             </div>
             <div class="project">
-                <h3>Estimación y Clasificación de Grasa Corporal sin Métodos Incómodos/Costosos</h3>
+                <h3>Estimación y Clasificación de Grasa Corporal sin Métodos Incómodos/Costosos 	&#128201 &#127828</h3>
                 <p>Este proyecto se enfoca en desarrollar un modelo de aprendizaje automático capaz de estimar la grasa corporal de individuos sin recurrir a métodos incómodos o costosos, como la medición precisa con instrumentos especializados. Reconociendo la importancia de disponer de métodos accesibles y menos invasivos para evaluar la composición corporal, este proyecto busca proporcionar una solución que utilice datos fácilmente disponibles y técnicas de aprendizaje automático para realizar predicciones precisas de la grasa corporal..</p>
                 <a href="https://github.com/pedrosoriaa1a/Predicci-n_grasa/blob/main/Predicci%C3%B3n_de_grasa_corporal.ipynb">Ver proyecto</a>
             </div>
             <div class="project">
-                <h3>Retención de talentos</h3>
+                <h3>Retención de talentos 	&#128188 &#128187</h3>
                 <p>
 En el dinámico mundo corporativo, la retención de empleados es un desafío crucial que impacta directamente en la eficiencia y los resultados financieros de una empresa. Con el aumento de la competencia por el talento y los altos costos asociados a la contratación y capacitación, el uso estratégico de la ciencia de datos se ha convertido en una herramienta indispensable. En este contexto, Catapulta DataTech se ha adjudicado un proyecto que busca reducir la rotación de empleados aplicando modelos analíticos avanzados y de machine learning, para prever y comprender las dinámicas de retención de empleados. El equipo de recursos humanos de nuestro cliente, recopiló una gran cantidad de datos sobre sus empleados y desea desarrollar un modelo que pueda predecir qué empleados tienen más probabilidades de renunciar..</p>
                 <a href="https://github.com/pedrosoriaa1a/retencion_empleados/blob/main/Retencion_talentos.ipynb">Ver proyecto</a>
             </div>
             <div class="project">
-                <h3>Industria Minera</h3>
+                <h3>Industria Minera &#128119</h3>
                 <p>
 Este proyecto se basa en el conjunto de datos de Minas y Recursos Minerales, el cual ofrece una amplia gama de información sobre minas en operación activa, excluyendo canteras de arena y grava. Contiene detalles sobre la ubicación, datos de contacto y características específicas de estas minas, lo que lo convierte en una herramienta invaluable para diversas partes interesadas, desde equipos de primeros auxilios hasta fuerzas del orden.
 
