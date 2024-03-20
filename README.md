@@ -47,6 +47,11 @@ Un aspecto destacado es la focalización en minas en operación activa, lo que a
 El objetivo principal del proyecto es predecir el estado actual de las minas, lo que puede ayudar a identificar posibles riesgos y contribuir a una gestión más eficiente de la seguridad y los recursos. Utilizando técnicas de aprendizaje automático, se buscará crear un modelo preciso que pueda clasificar el estado de las minas en función de los datos disponibles en el conjunto de datos. Esto proporcionará una valiosa herramienta para mejorar la seguridad y eficiencia en la industria minera..</p>
                 <a href="https://github.com/pedrosoriaa1a/Industria_minera/blob/main/Industria_minera.ipynb">Ver proyecto</a>
             </div>
+            <div class="project">
+                <h3>Predicciones partidos Liga MX 2024</h3>
+                <p>Próximamente &#9193.</p>
+                <a href="#">Ver proyecto</a>
+            </div>
         </section>
     </main>
     <footer>
