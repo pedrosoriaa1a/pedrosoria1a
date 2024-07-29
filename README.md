@@ -43,6 +43,14 @@ El objetivo principal del proyecto es predecir el estado actual de las minas, lo
                 <a href="https://github.com/pedrosoriaa1a/Industria_minera/blob/main/Industria_minera.ipynb">Ver proyecto</a>
             </div>
             <div class="project">
+                <h3>Campeonato mundial Ironman</h3>
+                <p>
+El proyecto se centra en el análisis de datos históricos del Ironman World Championship para entender mejor los factores que afectan los tiempos de finalización de los atletas. Utilizando un dataset que incluye variables como el año, lugar de finalización, nombre del atleta, país, tiempo de finalización y género, se aplicaron técnicas de análisis exploratorio de datos, visualización, modelado predictivo y clustering para identificar patrones y realizar predicciones.
+
+El objetivo principal del proyecto es desarrollar modelos de machine learning para predecir los tiempos de finalización de los atletas en el Ironman World Championship..</p>
+                <a href="https://github.com/pedrosoriaa1a/Industria_minera/blob/main/Industria_minera.ipynb">Ver proyecto</a>
+            </div>
+            <div class="project">
                 <h3>Predicciones partidos Liga MX 2024</h3>
                 <p>Próximamente &#9193.</p>
                 <a href="#">Ver proyecto</a>
