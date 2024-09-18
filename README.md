@@ -50,7 +50,6 @@ El proyecto se centra en el análisis de datos históricos del Ironman World Cha
 El objetivo principal del proyecto es desarrollar modelos de machine learning para predecir los tiempos de finalización de los atletas en el Ironman World Championship..</p>
                 <a href="https://github.com/pedrosoriaa1a/Ironman_World_Championship/blob/main/Ironman_World_Championship.ipynb">Ver proyecto</a>
             </div>
-            
             <div class="project">
                 <h3>Reporte de felicidad Mundial 2024</h3>
                 <p>
