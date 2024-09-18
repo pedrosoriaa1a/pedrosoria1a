@@ -50,6 +50,14 @@ El proyecto se centra en el análisis de datos históricos del Ironman World Cha
 El objetivo principal del proyecto es desarrollar modelos de machine learning para predecir los tiempos de finalización de los atletas en el Ironman World Championship..</p>
                 <a href="https://github.com/pedrosoriaa1a/Ironman_World_Championship/blob/main/Ironman_World_Championship.ipynb">Ver proyecto</a>
             </div>
+            
+            <div class="project">
+                <h3>Reporte de felicidad Mundial 2024</h3>
+                <p>
+El proyecto se centra en el análisis de datos socioeconómicos de diferentes países para entender mejor los factores que afectan la felicidad. Desarrollandp  un modelo de predicción de la felicidad a nivel país basado en diversos factores.
+.</p>
+                <a href="https://github.com/pedrosoriaa1a/World_Happiness_Report_2024">Ver proyecto</a>
+            </div>
             <div class="project">
                 <h3>Predicciones partidos Liga MX 2024</h3>
                 <p>Próximamente &#9193.</p>
